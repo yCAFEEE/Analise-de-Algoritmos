@@ -1,0 +1,7 @@
+.gitignore
+
+# Java files
+*.class
+
+# C++ files
+*.out
